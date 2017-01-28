@@ -18,6 +18,7 @@
 * [Toolboxes - Environment](#toolboxes---environment)
 * [Journals, Publications and Magazines](#journals-publications-and-magazines)
 * [Presentations](#presentations)
+* [Data Science Competitions](#competitions)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Comics](#comics)
 
@@ -38,7 +39,7 @@ This is the [Guide](https://github.com/okulbilisim/awesome-datascience/blob/mast
 
 Preview | Description
 ------------ | -------------
-[<img src="http://i.imgur.com/TvYhCHn.jpg" width="150" />](http://i.imgur.com/AfFMkHe.jpg) | A visual guide to Becoming a Data Scientist in 8 Steps by [DataCamp](https://www.datacamp.com) [(img)](http://i.imgur.com/AfFMkHe.jpg)
+[<img src="https://cloud.githubusercontent.com/assets/182906/19517857/604f88d8-960c-11e6-97d6-16c9738cb824.png" width="150" />](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png) | A visual guide to Becoming a Data Scientist in 8 Steps by [DataCamp](https://www.datacamp.com) [(img)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png)
 [<img src="http://i.imgur.com/W2t2Roz.png" width="150" />](http://i.imgur.com/FxsL3b8.png) | Mindmap on required skills ([img](http://i.imgur.com/FxsL3b8.png))
 [<img src="http://i.imgur.com/rb9ruaa.png" width="150" />](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png) | Swami Chandrasekaran made a [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/).
 [<img src="http://i.imgur.com/XBgKF2l.png" width="150" />](http://i.imgur.com/4ZBBvb0.png) | by [@kzawadz](https://twitter.com/kzawadz) via [twitter](https://twitter.com/MktngDistillery/status/538671811991715840), [MarketingDistillery.com](http://www.marketingdistillery.com/2014/11/29/is-data-science-a-buzzword-modern-data-scientist-defined/)
@@ -234,6 +235,9 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Vademecum of Practical Data Science](http://datasciencevademecum.wordpress.com/) - Handbook and recipes for data-driven solutions of real-world problems
 - [Dataconomy](http://dataconomy.com/) - A blog on the new emerging data economy
 - [Springboard](http://springboard.com/blog) - A blog with resources for data science learners
+- [Analytics Vidhya](http://www.analyticsvidhya.com/) - A full-fledged website about data science and analytics study material.
+- [Occam's Razor](http://www.kaushik.net/avinash/) - Focused on Web Analytics.
+=======
 - [Data School](http://www.dataschool.io/) - Data science tutorials for beginners!
 
 ## Facebook Accounts
@@ -340,16 +344,19 @@ We are more than 3,190 data scientists and data geeks in our community.
  - [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk)
  - [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) - Data Science Education
  - [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o)
+ - [Neural Networks video series by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
  - [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
 
-
 ## Toolboxes - Environment
+
  * [Datalab from Google](https://cloud.google.com/datalab/overview) easily explore, visualize, analyze, and transform data using familiar languages, such as Python and SQL, interactively.
  * [Hortonworks Sandbox](http://hortonworks.com/products/hortonworks-sandbox/) is a personal, portable Hadoop environment that comes with a dozen interactive Hadoop tutorials.
  * [R](http://www.r-project.org/) is a free software environment for statistical computing and graphics.
  * [RStudio](https://www.rstudio.com) IDE – powerful user interface for R. It’s free and open source, works onWindows, Mac, and Linux.
  * [Python - Pandas - Anaconda](https://store.continuum.io/cshop/anaconda/) Completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing
  * [Scikit-Learn](http://scikit-learn.org/stable/) Machine Learning in Python
+ * [NumPy](http://www.numpy.org/) NumPy is fundamental for scientific computing with Python. It supports large, multi-dimensional arrays and matrices and includes an assortment of high-level mathematical functions to operate on these arrays.
+ * [SciPy](https://www.scipy.org/) SciPy works with NumPy arrays and provides efficient routines for numerical integration and optimization.
  * [Data Science Toolbox](https://www.coursera.org/course/datascitoolbox) - Coursera Course
  * [Data Science Toolbox](http://datasciencetoolbox.org/) - Blog
  * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) Take numerical, textual, image, GIS or other data and give it the Wolfram treatment, carrying out a full spectrum of data science analysis and visualization and automatically generating rich interactive reports—all powered by the revolutionary knowledge-based Wolfram Language.
@@ -367,6 +374,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Caffe](http://caffe.berkeleyvision.org/) Deep Learning Framework
  * [Torch](http://torch.ch/) A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT
  * [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon)
+ * [Skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS
  * [Aerosolve](http://airbnb.io/aerosolve/) - A machine learning package built for humans.
  * [Intel framework](https://github.com/01org/idlf) - Intel® Deep Learning Framework
  * [Datawrapper](https://datawrapper.de) – An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at [github.com](https://github.com/datawrapper/datawrapper)
@@ -440,6 +448,16 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
 * [Building Data Start-Ups: Fast, Big, and Focused](http://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
 * [How to win data science competitions with Deep Learning](http://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
 
+## Competitions
+
+  Some data mining competition platforms
+* [Kaggle](https://www.kaggle.com/)
+* [DrivenData](https://www.drivendata.org/)
+* [Analytics Vidhya](http://www.analyticsvidhya.com/blog/tag/data-science-competitions/)
+* [The Data Science Game](http://www.datasciencegame.com/)
+* [InnoCentive](https://www.innocentive.com/)
+* [TuneedIT](http://tunedit.org/challenges)
+
 ## Comics
 * [<img src="http://imgs.xkcd.com/comics/digital_data.png" />](Digital Data)
 
@@ -454,3 +472,5 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  - [awesome-r](https://github.com/qinwf/awesome-R)
  - [awesome-datasets](https://github.com/caesar0301/awesome-public-datasets). – An awesome list of high-quality open datasets in public domains
  - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
+ - [Awesome Data Science Ideas](https://github.com/JosPolfliet/awesome-datascience-ideas)
+ - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
